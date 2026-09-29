@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hei! Jeg er Ibrahim Alsaadoun
 
-<!--
-**6ibo/6ibo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Web- og apputvikler | IT-lærling** 
 
-Here are some ideas to get you started:
+- 💻 Utvikler moderne løsninger med **React, React Native, Node.js, Express & Supabase**
+- 📱 Opptatt av god brukeropplevelse (UI/UX) og ren kode
+- 🌐 Sjekk ut et av mine prosjekter: [AI Atlas Tools](https://aiatlastools.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Teknologier & Verktøy
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
+
+### 📊 GitHub-statistikk
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=6ibo&show_icons=true&theme=radial)
